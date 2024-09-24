@@ -1,0 +1,49 @@
+<table>
+  <tbody>
+    {{#each familias}}
+      <tr>
+        <th>Grupo Familiar</th>
+      </tr>
+      <tr>
+        <td>
+          {{! Verifica se o grupo familiar tem pai ou mãe especificados }}
+
+          {{#if maeNome}}
+            <strong>Mãe:</strong>
+            {{maeNome}}
+            - CPF:
+            {{maeCpf}}<br />
+          {{/if}}
+
+          {{#if paiNome}}
+            <strong>Pai:</strong>
+            {{paiNome}}
+            - CPF:
+            {{paiCpf}}<br />
+          {{/if}}
+          {{! Lista os filhos se houver algum }}
+          {{#if filhos}}
+            {{! Se houver pelo menos um filho }}
+            <strong>
+              Filho{{#if filhos.length}}s{{/if}}:
+            </strong>
+            {{#each filhos}}
+              {{this}}{{#unless @last}}, {{/unless}}
+            {{/each}}
+            <br />
+          {{/if}}
+
+          {{! Renderiza as pessoas individualmente para grupos indefinidos }}
+          {{#if pessoas}}
+            {{#each pessoas}}
+              <strong>Nome:</strong>
+              {{nome}}
+              - CPF:
+              {{cpf}}<br />
+            {{/each}}
+          {{/if}}
+        </td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>

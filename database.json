@@ -1,0 +1,957 @@
+[
+  {
+    "tipo": "especificado",
+    "paiNome": "thiago ramon soares da silva",
+    "paiCpf": "099.670.594-51",
+    "maeNome": "tereza cristina de sousa silva",
+    "maeCpf": "093.271.064-66",
+    "filhos": [
+      "tuany sichelly soares do nascimento",
+      "tayna yorrane soares do nascimento",
+      "ana francisca soares do nascimento",
+      "maria isis soares do nascimento",
+      "jose maycon soares do nascimento",
+      "camile vitoria soares do nascimento",
+      "josicleide soares do nascimento"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "francinaldo augusto de lima",
+    "paiCpf": "054.254.635-87",
+    "maeNome": "francisca simone soares da silva",
+    "maeCpf": "062.569.643-00",
+    "filhos": [
+      "alice soares",
+      "isabel soares",
+      "estefane soares",
+      "clara soares"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "perivaldo feitosa da silva",
+    "paiCpf": "085.601.584-99",
+    "maeNome": "",
+    "maeCpf": "",
+    "filhos": [
+      "enzo moreira da silva",
+      "maria liz moreira da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "",
+    "paiCpf": "",
+    "maeNome": "joaquina pereira da silva",
+    "maeCpf": "030.306.134-02",
+    "filhos": [
+      "gustavo pereira da silva",
+      "petrucia perira da silva",
+      "petronio pereira da silva",
+      "maria yorranna pereira da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "lucival de andrade",
+    "paiCpf": "062.415.194-02",
+    "maeNome": "maria do socorro pereira virginio",
+    "maeCpf": "043.754.314-58",
+    "filhos": [
+      "igor virginio de andrade",
+      "miguel virginio de andrade"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "cassio santana da silva",
+    "paiCpf": "702.589.764-70",
+    "maeNome": "natalia ferreira da silva",
+    "maeCpf": "162.432.634-01",
+    "filhos": [
+      "ana cecilia ferreira alves"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "rian bernardo de sousa",
+        "cpf": "171.638.654-30"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "eraldo dos santos salviano",
+    "paiCpf": "013.283.914-85",
+    "maeNome": "maria luciene de santana silva",
+    "maeCpf": "047.663.844-58",
+    "filhos": [
+      "thauny da silva salviano",
+      "nicolas da silva salviano"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "",
+    "paiCpf": "",
+    "maeNome": "tereza fernandez",
+    "maeCpf": "062.252.614-60",
+    "filhos": [
+      "gilvandro selestino da silva",
+      "maria do socorro selestino da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "ivanildo braz de sousa",
+    "paiCpf": "000.252.004-45",
+    "maeNome": "maria alves de sousa",
+    "maeCpf": "053.013.984-74",
+    "filhos": [
+      "beatriz alves de sousa",
+      "vinicius alves de sousa",
+      "andre cossino de sousa neto"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "rafael vieira da costa",
+        "cpf": "711.175.774-22"
+      },
+      {
+        "nome": "rosana chaves pordeus",
+        "cpf": "140.753.844-62"
+      }
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "giselia dantas da silva",
+        "cpf": "011.548.634-84"
+      },
+      {
+        "nome": "damiao alves da silva",
+        "cpf": "034.509.464-63"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "antonio marcos de sousa silva",
+    "paiCpf": "063.986.084-29",
+    "maeNome": "heshily lorrana dantas da silva",
+    "maeCpf": "135.607.454-54",
+    "filhos": [
+      "luna emanuelly dantas da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "eliezer florentino dos santos",
+    "paiCpf": "978.810.154-20",
+    "maeNome": "mequelina modesto da silva",
+    "maeCpf": "065.933.004-03",
+    "filhos": [
+      "jackson renê alves dos santos",
+      "enzo gabriel da silva santos",
+      "wellington renan florentino dos santos"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "andre duarte de aragao",
+    "paiCpf": "009.326.114-43",
+    "maeNome": "celma nunes da silva",
+    "maeCpf": "072.840.344-75",
+    "filhos": [
+      "davi gustavo nunes de aragão"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "maria vitoria nunes de aragão",
+        "cpf": "119.955.024-80"
+      },
+      {
+        "nome": "paulo victor trigueiro araujo",
+        "cpf": "710.270.714-22"
+      }
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "maria gorete ferreira de sousa",
+        "cpf": "738.991.514-53"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "daniel inacio filho",
+    "paiCpf": "064.766.664-28",
+    "maeNome": "chirlene vieira da silva",
+    "maeCpf": "079.511.454-08",
+    "filhos": [
+      "joyce inacio da silva",
+      "jamilly inacio da silva",
+      "jane inacio da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "damiao graciano da silva",
+    "paiCpf": "287.463.186-11",
+    "maeNome": "ana paula pedrosa silva",
+    "maeCpf": "073.106.954-45",
+    "filhos": [
+      "ana victoria graciano pedrosa",
+      "angelo miguel graciano pedrosa",
+      "joão alisson pedrosa amorim"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "jose pereira de andrade filho",
+    "paiCpf": "023.730.184-97",
+    "maeNome": "luciene barbosa de andrade",
+    "maeCpf": "354.248.465-74",
+    "filhos": [
+      "larissa barbosa de andrade",
+      "mateus barbosa de andrade",
+      "marcos barbosa de andrade",
+      "isis lorena barbosa"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "carlos victor soares de sousa",
+    "paiCpf": "717.076.724-40",
+    "maeNome": "vitoria alves da silva",
+    "maeCpf": "181.142.743-33",
+    "filhos": [
+      "maria elisa soares da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "petkovic do nascimento pontes",
+    "paiCpf": "141.243.314-28",
+    "maeNome": "maria natalia santana da silva",
+    "maeCpf": "117.181.424-04",
+    "filhos": [
+      "cicero pontes da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "josé gomes da silva",
+    "paiCpf": "805.981.964-04",
+    "maeNome": "",
+    "maeCpf": "",
+    "filhos": [
+      "emille kauane gomes gonçalves"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "geraldo da silva coelho",
+    "paiCpf": "063.733.764-60",
+    "maeNome": "maria dos remedios campos",
+    "maeCpf": "079.370.984-90",
+    "filhos": [
+      "renato matias pereira",
+      "francisco ferreira campos neto",
+      "julia nunes",
+      "julio cesar nunes"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "gisele de araujo freire queiroga",
+        "cpf": "287.926.704-82"
+      },
+      {
+        "nome": "antonio gonzaga de queiroga",
+        "cpf": "047.932.748-38"
+      }
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "thiago bruno freire queiroga",
+        "cpf": "062.250.054-63"
+      },
+      {
+        "nome": "girlene freire de araujo",
+        "cpf": "468.390.142-00"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "ednaldo da silva gomes",
+    "paiCpf": "073.149.704-08",
+    "maeNome": "aline da silva araujo gomes",
+    "maeCpf": "121.124.524-10",
+    "filhos": [
+      "isaque araujo gomes",
+      "isabela maria araujo"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "francisco perira de andrade",
+    "paiCpf": "036.630.140-44",
+    "maeNome": "nadja tavares da costa",
+    "maeCpf": "093.271.064-66",
+    "filhos": [
+      "nadson gabriel tavares de andrade",
+      "nicole gabriele tavares de andrade"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "eva nunes da silva",
+        "cpf": "059.243.304-86"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "francisco soares dantas",
+    "paiCpf": "038.616.844-03",
+    "maeNome": "hidaci clemente dantas",
+    "maeCpf": "078.061.534-46",
+    "filhos": [
+      "joana clemente dantas",
+      "reginaldo clemente dantas",
+      "ronaldo clemente dantas",
+      "rejane clemente dantas"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "mateus borges dos santos",
+    "paiCpf": "056.041.244-43",
+    "maeNome": "raylla darly fernandes do nascimento",
+    "maeCpf": "120.660.704-16",
+    "filhos": [
+      "mateus hazard borges fernandes",
+      "enzo ravy borges fernandes"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "francisco soares de lima",
+    "paiCpf": "098.652.304-61",
+    "maeNome": "angelina herculano de sousa",
+    "maeCpf": "079.304.524-09",
+    "filhos": [
+      "carla vanessa soares de sousa",
+      "ana lis alves de sousa"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "",
+    "paiCpf": "",
+    "maeNome": "virlania florentino dos santos",
+    "maeCpf": "102.556.264-01",
+    "filhos": [
+      "miguel abrantes dos santos",
+      "israel abrantes neto"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "francisco william dos santos",
+    "paiCpf": "121.541.924-40",
+    "maeNome": "nayanne kenia da silva",
+    "maeCpf": "131.721.114-66",
+    "filhos": [
+      "francisco william dos santos junior",
+      "maria eloisa pereira dos santos"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "petrucio ferreira de araujo",
+    "paiCpf": "094.099.544-10",
+    "maeNome": "uilliana florentino dos santos araujo",
+    "maeCpf": "094.151.744-63",
+    "filhos": [
+      "pablo raimundo dos santos araujo",
+      "maria luna dos santos araujo"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "raimundo florentino dos santos",
+    "paiCpf": "058.096.044-71",
+    "maeNome": "francinete pereira dos santos",
+    "maeCpf": "049.482.914-12",
+    "filhos": [
+      "everton luiz de almeida"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "eraldo pererira de araujo",
+    "paiCpf": "233.337.744-53",
+    "maeNome": "dalva da silva araujo",
+    "maeCpf": "039.029.814-09",
+    "filhos": [
+      "allana araujo",
+      "alex araujo"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "david muller da silva",
+        "cpf": "711.456.244-64"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "",
+    "paiCpf": "",
+    "maeNome": "maria janailma moreira",
+    "maeCpf": "063.140.344-26",
+    "filhos": [
+      "isabella samia moreira pordeus de oliveira",
+      "elielson moreira pordeus de oliveira",
+      "edson igor moreira braga"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "maria ilca da silva",
+        "cpf": "424.214.894-15"
+      },
+      {
+        "nome": "antonio soares da silva",
+        "cpf": "938.473.434-91"
+      }
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "jose cesár marques",
+        "cpf": "085.625.024-48"
+      },
+      {
+        "nome": "aurineide catanan de araujo",
+        "cpf": "033.175.224-70"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "",
+    "paiCpf": "",
+    "maeNome": "francisca silmara pereira da silva",
+    "maeCpf": "714.248.964-38",
+    "filhos": [
+      "sergio miguel pereira da silva",
+      "antonio macário da silva",
+      "leandro macário da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "ricardo fernandes de oliveira",
+    "paiCpf": "099.670.594-51",
+    "maeNome": "",
+    "maeCpf": "",
+    "filhos": [
+      "pamela xavier fernandes"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "pablo ricardo xavier fernandes",
+        "cpf": "718.985.234-44"
+      },
+      {
+        "nome": "silvia leticia dantas de oliveira",
+        "cpf": "543.242.658-45"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "lucas matias",
+    "paiCpf": "137.229.433-40",
+    "maeNome": "elenice ramalho dos santos",
+    "maeCpf": "081.011.844-06",
+    "filhos": [
+      "pedro lucas ramalho matias"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "jose sidney soares da silva",
+        "cpf": "063.589.954-05"
+      },
+      {
+        "nome": "maria campos",
+        "cpf": "713.264.314-49"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "joão batista ferreira da silva",
+    "paiCpf": "223.846.881-50",
+    "maeNome": "ana maria de paiva alves da silva",
+    "maeCpf": "050.868.584-29",
+    "filhos": [
+      "jonas batista de paiva alves",
+      "joão pedro batista de paiva alves",
+      "joão victor batista de paiva alves"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "wellington macario xavier",
+    "paiCpf": "097.797.404-90",
+    "maeNome": "marcia catanan de sousa",
+    "maeCpf": "070.185.464-27",
+    "filhos": [
+      "francisco weslley xavier de sousa",
+      "maria julia xavier de sousa",
+      "paulo leandro ferreira de sousa"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "francisco de assis cardoso",
+    "paiCpf": "039.435.764-77",
+    "maeNome": "francisca silvania soares silva",
+    "maeCpf": "116.336.144-50",
+    "filhos": [
+      "maria cecilia rosa da silva",
+      "antonio josé soares da silva rosa",
+      "maria rebecca cardoso da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "",
+    "paiCpf": "",
+    "maeNome": "thalia germania macario xavier",
+    "maeCpf": "113.311.824-09",
+    "filhos": [
+      "maria alice macario da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "fracisco soares da silva",
+    "paiCpf": "071.243.994-32",
+    "maeNome": "francisca lucia sarmento",
+    "maeCpf": "048.217.274-63",
+    "filhos": [
+      "gabriel soares sarmento",
+      "ana lis soares sarmento"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "jandeilson matias da silva",
+    "paiCpf": "092.275.034-39",
+    "maeNome": "elisana abrantes de lima",
+    "maeCpf": "087.899.744-09",
+    "filhos": [
+      "maria leticia abrantes matias"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "jose adriano pereira de sousa",
+    "paiCpf": "097.456.874-05",
+    "maeNome": "sonara abrantes de sousa pereira",
+    "maeCpf": "099.009.074-42",
+    "filhos": [
+      "jose adrian pereira abrantes",
+      "allana pereira abrantes"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "gabriel ferreira da silva",
+    "paiCpf": "112.322.974-30",
+    "maeNome": "giselle abrantes de sousa",
+    "maeCpf": "156.310.214-55",
+    "filhos": [
+      "joão guilherme abrantes ferreira"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "jose neto",
+    "paiCpf": "051.893.934-02",
+    "maeNome": "maria lucielia alves costa",
+    "maeCpf": "079.046.154-44",
+    "filhos": [
+      "jonatan alves costa",
+      "maria larissa alves costa"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "francisco costa do nascimento",
+    "paiCpf": "016.238.354-10",
+    "maeNome": "francisca chagas formiga costa",
+    "maeCpf": "045.647.574-58",
+    "filhos": [
+      "joão victor da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "roberto vieira da silva",
+    "paiCpf": "063.725.304-30",
+    "maeNome": "francimery costa do nascimento silva",
+    "maeCpf": "700.090.964-18",
+    "filhos": [
+      "arthur gabriel vieira do nascimento",
+      "maria gabrielle viera do nascimento"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "jose claudio da silva",
+    "paiCpf": "060.221.094-18",
+    "maeNome": "elenita alves da costa",
+    "maeCpf": "084.438.034-28",
+    "filhos": [
+      "gabriel alves da silva",
+      "evellyn francisca costa silva"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "francineide gomes ferreira",
+        "cpf": "059.082.744-82"
+      },
+      {
+        "nome": "antonio da silva barbosa",
+        "cpf": "026.647.684-84"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "joão costa do nascimento",
+    "paiCpf": "033.430.234-00",
+    "maeNome": "maria lucicleide alves",
+    "maeCpf": "121.868.464-03",
+    "filhos": [
+      "francisco jefferson alves costa"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "carliane leandro da silva",
+        "cpf": "121.979.034-32"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "luciano neves dos santos",
+    "paiCpf": "035.872.874-65",
+    "maeNome": "analita da silva",
+    "maeCpf": "051.295.124-13",
+    "filhos": [
+      "alex neves da silva",
+      "alexiano da silva neves"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "francisco bruno de aquino silva",
+    "paiCpf": "093.042.094-20",
+    "maeNome": "iandra carla da conceição",
+    "maeCpf": "702.778.734-28",
+    "filhos": []
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "thiago josé oliveira da silva",
+    "paiCpf": "716.006.264-75",
+    "maeNome": "hagathan brilhante nogueira",
+    "maeCpf": "453.993.718-05",
+    "filhos": [
+      "rian brilhante da silva",
+      "maria julia brilhante",
+      "maria luna brilhante"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "",
+    "paiCpf": "",
+    "maeNome": "itamara barbosa da silva",
+    "maeCpf": "124.948.474-00",
+    "filhos": [
+      "jaiane da silva barbosa",
+      "icaro lorenzo da silva barbosa"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "ronye raimundo da silva",
+    "paiCpf": "081.322.304-00",
+    "maeNome": "franciana oliveira matias",
+    "maeCpf": "089.668.454-79",
+    "filhos": [
+      "ana victoria matias da silva",
+      "luis fernando matias",
+      "davi lucas matias",
+      "maria cecilia matias"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "maria larissa gonçalves da silva",
+        "cpf": "171.664.504-28"
+      }
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "josefa pereira da silva",
+        "cpf": "079.008.074-54"
+      }
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "maria josé da silva",
+        "cpf": "549.200.864-15"
+      }
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "pedro josé da silva",
+    "paiCpf": "044.478.804-23",
+    "maeNome": "",
+    "maeCpf": "",
+    "filhos": [
+      "thaiza maria da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "fabio gomes da silva",
+    "paiCpf": "051.118.304-64",
+    "maeNome": "suze micaelly caetano da conceição",
+    "maeCpf": "081.039.914-81",
+    "filhos": [
+      "maria esther caetano da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "jose hilton soares da silva",
+    "paiCpf": "739.003.204-97",
+    "maeNome": "maria aparecida leandro da silva",
+    "maeCpf": "000.929.154-57",
+    "filhos": [
+      "carlos leandro da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "manoel rogene da silva",
+    "paiCpf": "069.378.904-27",
+    "maeNome": "",
+    "maeCpf": "",
+    "filhos": [
+      "mayson santos da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "",
+    "paiCpf": "",
+    "maeNome": "vanderleia pereira de lima",
+    "maeCpf": "243.542.658-95",
+    "filhos": [
+      "yohanna kamilly pereira silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "mailson marques da silva",
+    "paiCpf": "117.989.794-37",
+    "maeNome": "",
+    "maeCpf": "",
+    "filhos": [
+      "joão pedro silva",
+      "medson marques"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "francisco raimundo da silva junior",
+    "paiCpf": "342.546.854-56",
+    "maeNome": "elma emidio de sousa silva",
+    "maeCpf": "047.056.804-64",
+    "filhos": [
+      "gabriel emidio da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "francisco de assis barbosa",
+    "paiCpf": "062.401.504-10",
+    "maeNome": "tatiana maria da silva soares",
+    "maeCpf": "110.400.884-64",
+    "filhos": [
+      "maria kauanny barbosa da silva",
+      "francisco kauan barbosa da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "pedro pereira da silva",
+    "paiCpf": "029.317.574-89",
+    "maeNome": "helena da silva aquino",
+    "maeCpf": "049.484.154-05",
+    "filhos": [
+      "francisco pereira da silva"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "vanderson pereira da silva",
+    "paiCpf": "029.317.574-89",
+    "maeNome": "maria de fátima barbosa",
+    "maeCpf": "102.601.834-07",
+    "filhos": [
+      "vanessa barbosa de lima"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "vanderlei pereira de lima",
+    "paiCpf": "082.960.264-06",
+    "maeNome": "maria do socorro fortunato matias",
+    "maeCpf": "095.164.444-44",
+    "filhos": [
+      "maria heloisa fortunato de lima"
+    ]
+  },
+  {
+    "tipo": "especificado",
+    "paiNome": "francisco soares da silva",
+    "paiCpf": "071.243.994-32",
+    "maeNome": "",
+    "maeCpf": "",
+    "filhos": [
+      "jailson matias da silva",
+      "joilton matias da silva",
+      "joseane matias da silva"
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "maria auxiliadora da silva leandro",
+        "cpf": "424.223.704-97"
+      }
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "alcindo lindolfo leandro",
+        "cpf": "036.347.024-78"
+      }
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "clarice lindolfo leandro",
+        "cpf": "674.350.254-53"
+      },
+      {
+        "nome": "suely antonia da silva leandro",
+        "cpf": "674.350.254-53"
+      }
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "francisca da silva fortunato",
+        "cpf": "063.730.154-85"
+      }
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "rodolpho torres cacau",
+        "cpf": "093.766.724-29"
+      }
+    ]
+  },
+  {
+    "tipo": "indefinido",
+    "pessoas": [
+      {
+        "nome": "mayara raquel da silva fernandes",
+        "cpf": "094.628.724-60"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+<form action="/familia/novo" method="POST">
+  <h2>Grupo Especificado (Pai, Mãe, Filhos)</h2>
+
+  <label for="maeNome">Mãe:</label>
+  <input type="text" id="maeNome" name="maeNome" placeholder="Nome da Mãe" /><br
+  />
+
+  <label for="maeCpf">CPF da Mãe:</label>
+  <input
+    type="text"
+    id="maeCpf"
+    class="cpf-input"
+    name="maeCpf"
+    placeholder="CPF da Mãe"
+  /><br />
+
+  <label for="paiNome">Pai:</label>
+  <input type="text" id="paiNome" name="paiNome" placeholder="Nome do Pai" /><br
+  />
+
+  <label for="paiCpf">CPF do Pai:</label>
+  <input
+    type="text"
+    class="cpf-input"
+    id="paiCpf"
+    name="paiCpf"
+    placeholder="CPF do Pai"
+  /><br />
+
+  <label>Filhos (separados por vírgula):</label>
+  <input type="text" name="filhos" placeholder="Nome dos Filhos" /><br />
+
+  <h2>Grupo Indefinido (Apenas Pessoas com CPF)</h2>
+
+  <div id="pessoas">
+    {{#each pessoas}}
+      <div class="pessoa">
+        <label>Nome:</label>
+        <input
+          type="text"
+          name="pessoas[{{@index}}][nome]"
+          placeholder="Nome"
+        />
+        <label>CPF:</label>
+        <input
+          type="text"
+          name="pessoas[{{@index}}][cpf]"
+          placeholder="CPF"
+          class="cpf-input"
+        /><br />
+      </div>
+    {{/each}}
+  </div>
+
+  <button type="submit">Salvar Grupo Familiar</button>
+</form>
+
+<script>
+  $(".cpf-input").mask("000.000.000-00");
+</script>
